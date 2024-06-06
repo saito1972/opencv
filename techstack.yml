@@ -1,0 +1,639 @@
+repo_name: saito1972/opencv
+report_id: b1385582beceefbbafca75e87cffae6c
+version: 0.1
+repo_type: Public
+timestamp: '2024-06-06T10:15:25+00:00'
+requested_by: asmorkalov
+provider: github
+branch: 4.x
+detected_tools_count: 49
+tools:
+- name: ASP.NET
+  description: An open source web framework for building modern web apps and services
+    with .NET
+  website_url: https://www.asp.net/
+  version: '8.0'
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6755/2c45151a4a11d3a3c8e71bb34dd069d6_400x400.png
+  detection_source_url: https://github.com/saito1972/opencv/blob/4.x/samples/wp8/OcvImageManipulation/PhoneXamlDirect3DApp1/PhoneXamlDirect3DApp1/OcvImageManipulation.csproj
+  detection_source: samples/wp8/OcvImageManipulation/PhoneXamlDirect3DApp1/PhoneXamlDirect3DApp1/OcvImageManipulation.csproj
+  last_updated_by: Maxim Kostin
+  last_updated_on: 2015-02-13 14:29:30.000000000 Z
+- name: C lang
+  description: One of the most widely used programming languages of all time
+  website_url: http://en.wikipedia.org/wiki/C_(programming_language)
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/saito1972/opencv
+  detection_source: Repo Metadata
+- name: C#
+  description: Simple, general-purpose, object-oriented programming language for the
+    .NET platform
+  website_url: http://csharp.net
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source_url: https://github.com/saito1972/opencv/blob/4.x/samples/wp8/OcvImageManipulation/PhoneXamlDirect3DApp1/PhoneXamlDirect3DApp1/App.xaml.cs
+  detection_source: samples/wp8/OcvImageManipulation/PhoneXamlDirect3DApp1/PhoneXamlDirect3DApp1/App.xaml.cs
+  last_updated_by: Maxim Kostin
+  last_updated_on: 2015-02-13 14:29:30.000000000 Z
+- name: C++
+  description: Has imperative, object-oriented and generic programming features, while
+    also providing the facilities for low level memory manipulation
+  website_url: http://www.cplusplus.com/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1049/cplusplus.png
+  detection_source_url: https://github.com/saito1972/opencv
+  detection_source: Repo Metadata
+- name: Clojure
+  description: A dynamic programming language that targets the Java Virtual Machine
+  website_url: http://clojure.org/
+  version: 1.5.1
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1003/Clojure_300x300.png
+  detection_source_url: https://github.com/saito1972/opencv/blob/4.x/samples/java/clojure/simple-sample/project.clj
+  detection_source: samples/java/clojure/simple-sample/project.clj
+  last_updated_by: Mimmmo Cosenza
+  last_updated_on: 2013-12-11 12:26:47.000000000 Z
+- name: Java
+  description: A concurrent, class-based, object-oriented, language specifically designed
+    to have as few implementation dependencies as possible
+  website_url: https://www.java.com
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/saito1972/opencv
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/saito1972/opencv
+  detection_source: Repo Metadata
+- name: Kotlin
+  description: Statically typed Programming Language targeting JVM and JavaScript
+  website_url: https://kotlinlang.org/
+  open_source: true
+  hosted_saas: true
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/3750/pCfEzr6L.png
+  detection_source_url: https://github.com/saito1972/opencv
+  detection_source: Repo Metadata
+- name: Objective-C
+  description: The primary programming language you use when writing software for
+    OS X and iOS
+  website_url: https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1008/xcode.png
+  detection_source_url: https://github.com/saito1972/opencv
+  detection_source: Repo Metadata
+- name: Perl
+  description: Highly capable, feature-rich programming language with over 26 years
+    of development
+  website_url: http://www.perl.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1048/perl.png
+  detection_source_url: https://github.com/saito1972/opencv
+  detection_source: Repo Metadata
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/saito1972/opencv
+  detection_source: Repo Metadata
+- name: Swift
+  description: An innovative new programming language for Cocoa and Cocoa Touch.
+  website_url: https://developer.apple.com/swift/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1009/tuHsaI2U.png
+  detection_source_url: https://github.com/saito1972/opencv
+  detection_source: Repo Metadata
+- name: ".NET"
+  description: A free, cross-platform, open source developer platform for building
+    many different types of applications
+  website_url: http://www.microsoft.com/net/
+  version: '8.0'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/saito1972/opencv/blob/4.x/samples/wp8/OcvImageManipulation/PhoneXamlDirect3DApp1/PhoneXamlDirect3DApp1/OcvImageManipulation.csproj
+  detection_source: samples/wp8/OcvImageManipulation/PhoneXamlDirect3DApp1/PhoneXamlDirect3DApp1/OcvImageManipulation.csproj
+  last_updated_by: Maxim Kostin
+  last_updated_on: 2015-02-13 14:29:30.000000000 Z
+- name: Electron
+  description: Build cross platform desktop apps with JavaScript, HTML, and CSS
+  website_url: http://electron.atom.io/
+  version: 15.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Cross-Platform Desktop Development
+  image_url: https://img.stackshare.io/service/2946/default_18a71b65e69d7aef5f218ae07f64eb6e1594c444.jpg
+  detection_source_url: https://github.com/saito1972/opencv/blob/4.x/doc/js_tutorials/js_assets/webnn-electron/package.json
+  detection_source: doc/js_tutorials/js_assets/webnn-electron/package.json
+  last_updated_by: luz paz
+  last_updated_on: 2022-03-17 20:06:54.000000000 Z
+- name: CMake
+  description: An open-source system that manages the build process
+  website_url: http://www.cmake.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Java Build Tools
+  image_url: https://img.stackshare.io/service/2424/0UlUI_y1_400x400.jpg
+  detection_source_url: https://github.com/saito1972/opencv
+  detection_source: Repo Metadata
+- name: Docker
+  description: Enterprise Container Platform for High-Velocity Innovation.
+  website_url: https://www.docker.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Platforms & Containers
+  image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/saito1972/opencv
+  detection_source: Repo Metadata
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/saito1972/opencv/blob/4.x/modules/js/test/package.json
+  detection_source: modules/js/test/package.json
+  last_updated_by: Congxiang Pan
+  last_updated_on: 2017-09-25 13:52:07.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/saito1972/opencv
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/saito1972/opencv/blob/4.x/.github/workflows/PR-4.x.yaml
+  detection_source: ".github/workflows/PR-4.x.yaml"
+  last_updated_by: Andrey Senyaev
+  last_updated_on: 2022-05-20 16:46:56.000000000 Z
+- name: Gradle
+  description: A powerful build system for the JVM
+  website_url: https://www.gradle.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Java Build Tools
+  image_url: https://img.stackshare.io/service/975/gradlephant-social-black-bg.png
+  detection_source_url: https://github.com/saito1972/opencv/blob/4.x/modules/java/android_sdk/android_gradle_lib/build.gradle
+  detection_source: modules/java/android_sdk/android_gradle_lib/build.gradle
+  last_updated_by: Alexander Alekhin
+  last_updated_on: 2018-11-05 17:39:09.000000000 Z
+- name: JUnit
+  description: A programmer-oriented testing framework for Java
+  website_url: http://junit.org/
+  version: 4.8.1
+  license: EPL-1.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/2020/874086.png
+  detection_source_url: https://github.com/saito1972/opencv/blob/4.x/platforms/maven/opencv-it/pom.xml
+  detection_source: platforms/maven/opencv-it/pom.xml
+  last_updated_by: Kerry Billingham
+  last_updated_on: 2017-03-05 19:06:00.000000000 Z
+- name: PyPI
+  description: A repository of software for the Python programming language
+  website_url: https://pypi.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Hosted Package Repository
+  image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/saito1972/opencv/blob/4.x/samples/dnn/dnn_model_runner/dnn_conversion/requirements.txt
+  detection_source: samples/dnn/dnn_model_runner/dnn_conversion/requirements.txt
+  last_updated_by: Anastasia M
+  last_updated_on: 2021-01-26 11:06:15.000000000 Z
+- name: SLF4J
+  description: Simple logging facade for Java
+  website_url: http://slf4j.org/
+  open_source: false
+  hosted_saas: false
+  category: Monitoring
+  sub_category: Log Management
+  image_url: https://img.stackshare.io/service/2805/05518ecaa42841e834421e9d6987b04f_400x400.png
+  detection_source_url: https://github.com/saito1972/opencv/blob/4.x/platforms/maven/opencv-it/pom.xml
+  detection_source: platforms/maven/opencv-it/pom.xml
+  last_updated_by: Kerry Billingham
+  last_updated_on: 2017-03-05 19:06:00.000000000 Z
+- name: Visual Studio
+  description: State-of-the-art tools and services that you can use to create great
+    apps for devices, the cloud, and everything in between.
+  website_url: http://msdn.microsoft.com/en-us/vstudio/aa718325.aspx
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Integrated Development Environment
+  image_url: https://img.stackshare.io/service/1451/SR2hUhQN.png
+  detection_source_url: https://github.com/saito1972/opencv/blob/4.x/samples/winrt/FaceDetection/FaceDetection.sln
+  detection_source: samples/winrt/FaceDetection/FaceDetection.sln
+  last_updated_by: Maxim Kostin
+  last_updated_on: 2015-05-26 15:10:12.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/saito1972/opencv/blob/4.x/modules/js/test/package.json
+  detection_source: modules/js/test/package.json
+  last_updated_by: Congxiang Pan
+  last_updated_on: 2017-09-25 13:52:07.000000000 Z
+- name: OpenCV
+  description: Open Source Computer Vision Library
+  website_url: http://opencv.org/
+  open_source: true
+  hosted_saas: false
+  category: Assets and Media
+  sub_category: Image Processing and Management
+  image_url: https://img.stackshare.io/service/1293/opencv-logo-64x64.png
+  detection_source_url: https://github.com/saito1972/opencv/blob/4.x/platforms/maven/opencv-it/pom.xml
+  detection_source: platforms/maven/opencv-it/pom.xml
+  last_updated_by: Kerry Billingham
+  last_updated_on: 2017-03-05 19:06:00.000000000 Z
+- name: CUDA
+  description: It provides everything you need to develop GPU-accelerated applications
+  website_url: http://www.nvidia.com/object/cuda_home_new.html
+  open_source: false
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Machine Learning Tools
+  image_url: https://img.stackshare.io/service/2836/LUOWehvo_400x400.jpeg
+  detection_source_url: https://github.com/saito1972/opencv
+  detection_source: Repo Metadata
+- name: NumPy
+  description: Fundamental package for scientific computing with Python
+  website_url: http://www.numpy.org/
+  version: 1.19.1
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Data Science Tools
+  image_url: https://img.stackshare.io/service/2179/default_332f874a2edb2686f578aa6389313efcea1eec41.png
+  detection_source_url: https://github.com/saito1972/opencv/blob/4.x/samples/dnn/dnn_model_runner/dnn_conversion/requirements.txt
+  detection_source: samples/dnn/dnn_model_runner/dnn_conversion/requirements.txt
+  last_updated_by: Anastasia M
+  last_updated_on: 2021-01-26 11:06:15.000000000 Z
+- name: PowerShell
+  description: A task automation and configuration management framework
+  website_url: https://docs.microsoft.com/en-us/powershell/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/3681/powershell-logo.png
+  detection_source_url: https://github.com/saito1972/opencv
+  detection_source: Repo Metadata
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/saito1972/opencv
+  detection_source: Repo Metadata
+- name: TensorFlow
+  description: Open Source Software Library for Machine Intelligence
+  website_url: https://www.tensorflow.org
+  version: 2.1.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Machine Learning Tools
+  image_url: https://img.stackshare.io/service/4717/FtFnqC38_400x400.png
+  detection_source_url: https://github.com/saito1972/opencv/blob/4.x/samples/dnn/dnn_model_runner/dnn_conversion/requirements.txt
+  detection_source: samples/dnn/dnn_model_runner/dnn_conversion/requirements.txt
+  last_updated_by: Anastasia M
+  last_updated_on: 2021-01-26 11:06:15.000000000 Z
+- name: Torch
+  description: An open-source machine learning library and a script language based
+    on the Lua programming language
+  website_url: http://torch.ch/
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Machine Learning Tools
+  image_url: https://img.stackshare.io/service/4475/hpYQzO_U_400x400.png
+  detection_source_url: https://github.com/saito1972/opencv/blob/4.x/samples/dnn/dnn_model_runner/dnn_conversion/requirements.txt
+  detection_source: samples/dnn/dnn_model_runner/dnn_conversion/requirements.txt
+  last_updated_by: Anastasia M
+  last_updated_on: 2021-01-26 11:06:15.000000000 Z
+- name: Ubuntu
+  description: The leading OS for PC, tablet, phone and cloud
+  website_url: http://www.ubuntu.com/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Operating Systems
+  image_url: https://img.stackshare.io/service/3511/cof_orange_hex.jpg
+  detection_source_url: https://github.com/saito1972/opencv/blob/4.x/modules/videoio/misc/plugin_gstreamer/Dockerfile
+  detection_source: modules/videoio/misc/plugin_gstreamer/Dockerfile
+  last_updated_by: Maksim Shabunin
+  last_updated_on: 2019-01-14 10:33:38.000000000 Z
+- name: prolog
+  description: é uma linguagem de programação que se enquadra no paradigma de Programação
+    em Lógica Matemática.
+  website_url: http://www.swi-prolog.org/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/10124/no-img-open-source.png
+  detection_source_url: https://github.com/saito1972/opencv
+  detection_source: Repo Metadata
+- name: junit:junit
+  description: JUnit is a unit testing framework for Java
+  version: 4.8.1
+  license: EPL-1.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/saito1972/opencv/blob/4.x/platforms/maven/opencv-it/pom.xml
+  detection_source: platforms/maven/opencv-it/pom.xml
+  last_updated_by: Kerry Billingham
+  last_updated_on: 2017-03-05 19:06:00.000000000 Z
+  vulnerabilities:
+  - name: TemporaryFolder on unix-like systems does not limit access to created files
+    cve_id: CVE-2020-15250
+    cve_url: https://github.com/advisories/GHSA-269g-pwp5-87pp
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 4.13.1
+- name: org.apache.geronimo.specs:geronimo-atinject_1.0_spec
+  description: Apache Geronimo implementation of the JSR-330 Dependency Injection
+    Spec API
+  version: '1.0'
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/saito1972/opencv/blob/4.x/platforms/maven/opencv-it/pom.xml
+  detection_source: platforms/maven/opencv-it/pom.xml
+  last_updated_by: Kerry Billingham
+  last_updated_on: 2017-09-13 14:19:16.000000000 Z
+- name: org.ops4j.pax.exam:pax-exam-container-karaf
+  description: In-Container Test Framework for OSGi
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/saito1972/opencv/blob/4.x/platforms/maven/opencv-it/pom.xml
+  detection_source: platforms/maven/opencv-it/pom.xml
+  last_updated_by: Kerry Billingham
+  last_updated_on: 2017-09-13 14:19:16.000000000 Z
+- name: org.ops4j.pax.exam:pax-exam-junit4
+  description: Pax Exam Integration testing framework for Modern Java Platforms
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/saito1972/opencv/blob/4.x/platforms/maven/opencv-it/pom.xml
+  detection_source: platforms/maven/opencv-it/pom.xml
+  last_updated_by: Kerry Billingham
+  last_updated_on: 2017-09-13 14:19:16.000000000 Z
+- name: org.ops4j.pax.logging:pax-logging-api
+  description: The Pax Logging API Library is to allow for the Pax Logging Service
+    to be reloaded without stopping the many dependent bundles
+  version: 1.8.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/saito1972/opencv/blob/4.x/platforms/maven/opencv-it/pom.xml
+  detection_source: platforms/maven/opencv-it/pom.xml
+  last_updated_by: Kerry Billingham
+  last_updated_on: 2017-09-13 14:19:16.000000000 Z
+- name: org.ops4j.pax.url:pax-url-aether
+  description: 'OPS4J Pax Url - aether: protocol handler'
+  version: 1.6.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/saito1972/opencv/blob/4.x/platforms/maven/opencv-it/pom.xml
+  detection_source: platforms/maven/opencv-it/pom.xml
+  last_updated_by: Kerry Billingham
+  last_updated_on: 2017-09-13 14:19:16.000000000 Z
+- name: org.osgi:org.osgi.core
+  description: OSGi Core Release 6
+  version: 4.3.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/saito1972/opencv/blob/4.x/platforms/maven/opencv-it/pom.xml
+  detection_source: platforms/maven/opencv-it/pom.xml
+  last_updated_by: Kerry Billingham
+  last_updated_on: 2017-09-13 14:19:16.000000000 Z
+- name: org.slf4j:slf4j-api
+  description: The slf4j API
+  version: 1.7.24
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/saito1972/opencv/blob/4.x/platforms/maven/opencv-it/pom.xml
+  detection_source: platforms/maven/opencv-it/pom.xml
+  last_updated_by: Kerry Billingham
+  last_updated_on: 2017-09-13 14:19:16.000000000 Z
+- name: org.slf4j:slf4j-simple
+  description: SLF4J Simple binding
+  version: 1.7.24
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/saito1972/opencv/blob/4.x/platforms/maven/opencv-it/pom.xml
+  detection_source: platforms/maven/opencv-it/pom.xml
+  last_updated_by: Kerry Billingham
+  last_updated_on: 2017-09-13 14:19:16.000000000 Z
+- name: minimist
+  description: Parse argument options
+  package_url: https://www.npmjs.com/minimist
+  version: 1.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15918/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
+  detection_source_url: https://github.com/saito1972/opencv/blob/4.x/modules/js/test/package.json
+  detection_source: modules/js/test/package.json
+  last_updated_by: Sebastián Gurin
+  last_updated_on: 2019-11-16 21:29:38.000000000 Z
+  vulnerabilities:
+  - name: Prototype Pollution in minimist
+    cve_id: CVE-2021-44906
+    cve_url: https://github.com/advisories/GHSA-xvch-5gv4-984h
+    detected_date: Mar 22
+    severity: critical
+    first_patched: 1.2.6
+  - name: Prototype Pollution in minimist
+    cve_id: CVE-2020-7598
+    cve_url: https://github.com/advisories/GHSA-vh95-rmgr-6w4m
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 1.2.3
+  - name: 'Withdrawn: ESLint dependencies are vulnerable (ReDoS and Prototype Pollution)'
+    cve_id:
+    cve_url: https://github.com/advisories/GHSA-7fhm-mqm4-2wp7
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 1.2.2
+- name: ansi-colors
+  description: Easily add ANSI colors to your text and symbols in the terminal
+  package_url: https://www.npmjs.com/ansi-colors
+  version: 4.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17880/default_3bc64391130859f94a137a7dc6cb87cd54da546b.png
+  detection_source_url: https://github.com/saito1972/opencv/blob/4.x/modules/js/test/package.json
+  detection_source: modules/js/test/package.json
+  last_updated_by: Sebastián Gurin
+  last_updated_on: 2019-11-16 21:29:38.000000000 Z
+- name: benchmark
+  description: A benchmarking library that supports high-resolution timers &amp; returns
+    statistically significant results
+  package_url: https://www.npmjs.com/benchmark
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16241/default_cbc604730ab04341982d806fe402cd0706cc8bf4.png
+  detection_source_url: https://github.com/saito1972/opencv/blob/4.x/modules/js/perf/package.json
+  detection_source: modules/js/perf/package.json
+  last_updated_by: Wenzhao Xiang
+  last_updated_on: 2019-09-24 13:30:42.000000000 Z
+- name: cli-table
+  description: Pretty unicode tables for the CLI
+  package_url: https://www.npmjs.com/cli-table
+  version: 0.3.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16477/default_2e7c1d6d94467a56325f7c984571015e8713a450.png
+  detection_source_url: https://github.com/saito1972/opencv/blob/4.x/modules/js/test/package.json
+  detection_source: modules/js/test/package.json
+  last_updated_by: Alexander Alekhin
+  last_updated_on: 2021-11-18 05:40:16.000000000 Z
+- name: eslint-config-google
+  description: ESLint shareable config for the Google style
+  package_url: https://www.npmjs.com/eslint-config-google
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16249/default_380ae3d73e22c7ca1f42b96479bcd0095dabc0d3.png
+  detection_source_url: https://github.com/saito1972/opencv/blob/4.x/modules/js/test/package.json
+  detection_source: modules/js/test/package.json
+  last_updated_by: Sebastián Gurin
+  last_updated_on: 2019-11-16 21:29:38.000000000 Z
+- name: torchvision
+  description: Image and video datasets and models for torch deep learning
+  package_url: https://pypi.org/project/torchvision
+  version: 0.6.1
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20377/default_86c41789cbd5dc6b872b122419740f58f5d2f18a.png
+  detection_source_url: https://github.com/saito1972/opencv/blob/4.x/samples/dnn/dnn_model_runner/dnn_conversion/requirements.txt
+  detection_source: samples/dnn/dnn_model_runner/dnn_conversion/requirements.txt
+  last_updated_by: Anastasia M
+  last_updated_on: 2021-01-26 11:06:15.000000000 Z
